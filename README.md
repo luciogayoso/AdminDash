@@ -12,8 +12,10 @@ Un panel de administración moderno, seguro y adaptable para la gestión integra
 
 ## 📸 Demo Preview
 
-> **Dashboard Principal & Métricas KPI**
-> *Sistema de tarjetas, tabla con iniciales avatarizadas, búsqueda en tiempo real y alertas interactivas.*
+| Dashboard Principal & Métricas |
+| :---: |
+| ![AdminDash Preview](img/dashboard.png) |
+| *Vista general del panel con KPIs, gestión de usuarios y búsqueda dinámica en tiempo real.* |
 
 ---
 
